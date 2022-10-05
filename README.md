@@ -1,5 +1,5 @@
 ### Bem vindo 👋
-Estudando programação.
+Estudando DELPHI no programa de formação +DEVS2BLU.
  
  <br>
  <br>
