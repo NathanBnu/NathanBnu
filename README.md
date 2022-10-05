@@ -1,5 +1,6 @@
 ### Bem vindo 👋
-Estudando DELPHI no programa de formação +DEVS2BLU.
++DEVS2BLU(2022)
+ENTRA21(2019)
  
  <br>
  <br>
