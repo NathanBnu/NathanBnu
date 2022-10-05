@@ -1,6 +1,6 @@
-### Bem vindo 👋
-+DEVS2BLU(2022) <br>
-ENTRA21(2019)
+### Estudante de programação. 👋
++DEVS2BLU (2022) <br>
+ENTRA21 (2019)
  
  <br>
  <br>
