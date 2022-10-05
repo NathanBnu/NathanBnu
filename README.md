@@ -1,4 +1,4 @@
-### Estudante de programação. 👋
+### Estudando programação em Blumenau. 👋:beer:
 +DEVS2BLU (2022) <br>
 ENTRA21 (2019)
  
