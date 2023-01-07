@@ -1,8 +1,9 @@
 ### Estudando programação em Blumenau. 👋:beer:
-+DEVS2BLU (2022) <br>
-TÉCNICO ADS (2020-2022) <br>
-ENTRA21 (2019)
- 
+
+ENTRA21 (2019) <br>
+TÉCNICO ADS (2020-2022) <br> 
++DEVS2BLU (2022) 
+
  <br>
  <br>
  <div> 
