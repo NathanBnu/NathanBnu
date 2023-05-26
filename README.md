@@ -2,7 +2,7 @@
 
 ENTRA21 (2019) <br>
 TÉCNICO ADS (2020-2022) <br> 
-+DEVS2BLU (2022) 
++DEVS2BLU (2023) 
 
  <br>
  <br>
