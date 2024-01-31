@@ -1,4 +1,4 @@
-### Estudando programação em Blumenau. 👋:beer:
+### Estudando programação em Blumenau. 👋
 
 ENTRA21 (2019) <br>
 TÉCNICO ADS (2020-2022) <br> 
